@@ -31,7 +31,8 @@ body {
 
 .Header a {
     text-decoration: none;
-    color: inherit; /* Inherit the color from the parent (like the body) */
+    color: inherit;
+    font-family: inherit;
 }
 
 .Intro, .Body1, .Body2 {
