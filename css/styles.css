@@ -29,13 +29,8 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.Header a {
+.home {
     text-decoration: none;
-    color: inherit;
-    font-family: inherit;
-}
-
-.Intro, .Body1, .Body2 {
     color: inherit;
     font-family: inherit;
 }
