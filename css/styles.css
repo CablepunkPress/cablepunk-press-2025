@@ -29,7 +29,12 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.Header, .Intro, .Body1, .Body2 {
+.Header a {
+    text-decoration: none;
+    color: inherit; /* Inherit the color from the parent (like the body) */
+}
+
+.Intro, .Body1, .Body2 {
     color: inherit;
     font-family: inherit;
 }
